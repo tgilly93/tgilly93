@@ -6,6 +6,9 @@
 - 🌱 I’m currently learning:
     - Front End Web Development
     - Back End Web Development
+    
+- 👨‍💻 All of my projects are available at:
+    - [https://www.notion.so/Terry-Gilmore-Jr-7b1ea61d262943379448b2d46a3f6cf7](https://www.notion.so/Terry-Gilmore-Jr-7b1ea61d262943379448b2d46a3f6cf7)
 
 <h2 align="left">Tech Stack:</h2>
 
