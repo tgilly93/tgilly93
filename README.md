@@ -6,6 +6,8 @@
 - 🌱 I’m currently learning:
     - Front End Web Development
     - Back End Web Development
+    - RESTful API Integration
+    - Database Integration
 
 <h2 align="left">Tech Stack:</h2>
 
