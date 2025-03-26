@@ -17,7 +17,7 @@
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=tgilly93&theme=calm&show_icons=true&count_private=true)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tgilly93&" alt="tgilly93" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tgilly93&theme=calm" alt="tgilly93" /></p>
 
 <details>
     <summary>🏆 Github Trophies</summary>
