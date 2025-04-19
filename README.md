@@ -8,6 +8,7 @@
     - Back End Web Development
     - RESTful API Integration
     - Database Integration
+    - CI/CD
 
 <h2 align="left">Tech Stack: </h2>
 
